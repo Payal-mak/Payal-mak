@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Payal Makwana</h1>
+<h1 align="center" style="background-color:#007BFF;color:white;padding:10px;border-radius:10px;">
+  Hi 👋, I'm Payal Makwana
+</h1>
 <h3 align="center">"Learning and Building with Code"</h3>
 
 - 📫 Reach me **iampayal018@gmail.com**
@@ -28,5 +30,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Payal-mak&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
