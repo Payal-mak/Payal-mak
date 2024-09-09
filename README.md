@@ -13,7 +13,7 @@
    <a href="https://wakatime.com/@bf6de611-78f6-4a85-8095-c69807d620e6"><img src="https://wakatime.com/badge/user/bf6de611-78f6-4a85-8095-c69807d620e6.svg" alt="Total time coded since Sep 9 2024" /></a>
   
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Payal-mak&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+/*![](https://github-readme-stats.vercel.app/api?username=Payal-mak&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>*/
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Payal-mak&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Payal-mak&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
