@@ -1,6 +1,5 @@
 <h1 align="center" style="background-color:#007BFF;color:white;padding:10px;border-radius:10px;">
-  Hey, <div class="tenor-gif-embed" data-postid="27040745" data-share-method="host" data-aspect-ratio="1" data-width="40" style="display:inline-block;vertical-align:middle;">
-  <a href="https://tenor.com/view/hand-gif-gif-27040745">Hand Gif Sticker</a></div> I'm Payal Makwana
+  Hey👋🏻, I'm Payal Makwana
 </h1>
 <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
