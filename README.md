@@ -7,6 +7,9 @@
 
 - 📫 Reach me **iampayal018@gmail.com**
 
+---
+[![](https://visitcount.itsvg.in/api?id=Payal-mak&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/payal-makwana-a2b73829a/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@iampayal018) 
 
@@ -27,8 +30,3 @@
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Payal-mak&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Payal-mak&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
