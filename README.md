@@ -1,4 +1,5 @@
-<img src="readme.png" alt="GitHub Banner" width="100%" />
+  # Hello World! I'm Payal Makwana 👋
+  **ML & AI Enthusiast | Full Stack Development | Innovator**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Payal-mak/Payal-mak/output/github-snake-dark.svg" />
