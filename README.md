@@ -1,5 +1,5 @@
-  # Hello World! I'm Payal Makwana 👋
-  **ML & AI Enthusiast | Full Stack Development | Innovator**
+<h2 align="center">Hello World! I'm Payal Makwana 👋</h2>
+<p align="center"><strong>ML & AI Enthusiast | Full Stack Development | Innovator</strong></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Payal-mak/Payal-mak/output/github-snake-dark.svg" />
