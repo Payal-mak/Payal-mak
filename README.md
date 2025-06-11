@@ -1,8 +1,4 @@
-<h1 align="center" style="background-color:#007BFF;color:white;padding:10px;border-radius:10px;">
-  Hey👋🏻, I'm Payal Makwana
-</h1>
-
-<h3 align="center">"Learning and Building with Code"</h3>
+<img src="readme.png" alt="GitHub Banner" width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Payal-mak/Payal-mak/output/github-snake-dark.svg" />
