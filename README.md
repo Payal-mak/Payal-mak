@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/payal-makwana-a2b73829a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iampayal018@gmail.com) 
 
 
-## My Coding stats
+## My Coding stats:
    <a href="https://wakatime.com/@bf6de611-78f6-4a85-8095-c69807d620e6"><img src="https://wakatime.com/badge/user/bf6de611-78f6-4a85-8095-c69807d620e6.svg" alt="Total time coded since Sep 9 2024" /></a>
 
 # 💻 Tech Stack:
