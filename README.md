@@ -25,4 +25,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![](https://komarev.com/ghpvc/?username=Payal-mak&style=flat-square)
+<div style="text-align: center;">
+  <img src="https://komarev.com/ghpvc/?username=Payal-mak&style=flat-square" alt="Profile views" />
+</div>
