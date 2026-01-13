@@ -1,4 +1,22 @@
+<div style="text-align: center;">
+  <h1>Hello World, I'm Payal Makwana 👋</h1>
+  <h3>Full Stack Web Developer | ML Enthusiast | Problem Solver</h3>
+</div>
 
+<br>
+
+## 🌟 About Me
+```javascript
+const payal = {
+  education: "B.Tech in ICT, Marwadi University, Rajkot",
+  experience: ["Intern at AI GURU", "Intern at IEEE Signal Processing Society"],
+  currentlyWorking: "Fruit Ripeness Detection",
+  currentlyLearning: "MERN Stack Development",
+  expertise: ["Full Stack Development", "C#", "MySQL", "JavaScript"],
+  askMeAbout: ["YOLOv8", "Git", "GitHub", "Machine Learning"],
+  passion: "Creating innovative solutions for real-world problems"
+};
+```
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/payal-makwana-a2b73829a) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@payal_18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iampayal018@gmail.com) 
 
