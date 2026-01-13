@@ -13,7 +13,7 @@ const payal = {
   passion: "Creating innovative solutions for real-world problems"
 };
 ```
-[![wakatime](https://wakatime.com/badge/user/bf6de611-78f6-4a85-8095-c69807d620e6.svg)](https://wakatime.com/@bf6de611-78f6-4a85-8095-c69807d620e6)
+- My Coding stats: [![wakatime](https://wakatime.com/badge/user/bf6de611-78f6-4a85-8095-c69807d620e6.svg)](https://wakatime.com/@bf6de611-78f6-4a85-8095-c69807d620e6)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/payal-makwana-a2b73829a) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@payal_18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iampayal018@gmail.com) 
