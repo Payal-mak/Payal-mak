@@ -44,3 +44,7 @@ const payal = {
 
 
 </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Payal-mak&label=Profile%20views&color=0e75b6&style=flat" alt="Payal-mak" />
+</p>
+
