@@ -8,7 +8,7 @@ const payal = {
   experience: ["Intern at AI GURU", "Intern at IEEE Signal Processing Society"],
   currentlyWorking: "Fruit Ripeness Detection",
   currentlyLearning: "MERN Stack Development",
-  expertise: ["Full Stack Development", "C#", "MySQL", "JavaScript"],
+  expertise: ["Full Stack Development", "Machine Learning", "MySQL", "JavaScript"],
   askMeAbout: ["YOLOv8", "Git", "GitHub", "Machine Learning"],
   passion: "Creating innovative solutions for real-world problems"
 };
