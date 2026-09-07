@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Payal Makwana 👩‍💻</h1>
-<h3 align="center">Full Stack Web Developer | ML Enthusiast | Problem Solver</h3>
 
 ## 🌟 About Me
 ```javascript
